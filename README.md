@@ -8,9 +8,10 @@ Technologies Used:
 + Vanilla JavaScript 
 
 Learned: 
-+ Build PWA 
++ PWA Capabilities 
 + Service Worker 
 + Google Lighthouse Audits 
++ Open Weather Map API 
 
 Setup:
 + run ```npm i && npm start``` for both client and server side to start the development server
