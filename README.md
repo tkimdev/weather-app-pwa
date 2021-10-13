@@ -17,3 +17,5 @@ Learned:
 
 Setup:
 + run ```npm i && npm start``` for both client and server side to start the development server
+
+![weather](https://user-images.githubusercontent.com/68490255/137121580-fa2d10a5-2806-4225-b73d-49c7404a491f.jpg)
