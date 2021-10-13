@@ -4,8 +4,9 @@
 
 Technologies Used: 
 + React 
-+ Axios 
 + CSS
++ Axios 
+
 
 Learned: 
 + PWA Capabilities 
