@@ -10,7 +10,7 @@ Technologies Used:
 Learned: 
 + Build PWA 
 + Service Worker 
-+ 
++ Google Lighthouse Audits 
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
++ run ```npm i && npm start``` for both client and server side to start the development server
