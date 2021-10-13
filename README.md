@@ -1,14 +1,21 @@
-# Weather Progressive Web Application
-![Weather Data](https://i.imgur.com/3csowzj.png)
+# Weather Progressive Web Application (PWA) ☁ 🌞 
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
+### [Live Site](https://ecstatic-goodall-53a66b.netlify.app/)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+Technologies Used: 
++ HTML5 
++ CSS3
++ Vanilla JavaScript 
 
-In this video, we will create a PWA. We're going to use React with service workers.
-
-By the end of this video, you will have a strong understanding of what PWA is and how you can build, deploy and publish it.
+Learned: 
++ Incorporate NASA API 
++ Blog Cards format 
++ Click Image to see Full Res Version 
++ Add and Remove Articles to/from Favorites using Local Storage 
++ Loading Animation 
++ Load More BUTTON to load more articles 
++ Lazy Loading to Improve Performance 
++ Mobile Responsive 
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
