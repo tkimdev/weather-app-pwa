@@ -13,6 +13,7 @@ Learned:
 + Service Worker 
 + Google Lighthouse Audits 
 + Open Weather Map API 
++ Manifest.json 
 
 Setup:
 + run ```npm i && npm start``` for both client and server side to start the development server
